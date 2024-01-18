@@ -1,0 +1,48 @@
+<svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="12" height="12" fill="#C0C0C0"/>
+<g id="Podcast UI" clip-path="url(#clip0_0_1)">
+<rect width="1920" height="6764.75" transform="translate(-341 -5921)" fill="white"/>
+<g id="div#qodef-page-wrapper" clip-path="url(#clip1_0_1)">
+<g id="div.elementor-section-wrap">
+<g id="div.qodef-grid-inner">
+<g id="div.qodef-e-inner" filter="url(#filter0_d_0_1)">
+<rect x="-31" y="-559.734" width="386.656" height="606.5" rx="10" fill="white" fill-opacity="0.01" shape-rendering="crispEdges"/>
+<g id="div.qodef-e-content">
+<g id="div.qodef-team-member-social-icons">
+<g id="span.qodef-icon-holder">
+<rect x="-5" y="-5.25" width="22" height="22" rx="11" fill="#8E8B8C"/>
+<g id="Frame" clip-path="url(#clip2_0_1)">
+<g id="Group">
+<path id="Vector" d="M1.89057 11.2285V5.73924H0.510742V3.84758L1.89057 3.84672L1.88864 2.73257C1.88864 1.18935 2.30719 0.249958 4.12487 0.249958H6.00002V2.14247H4.69224C3.98421 2.14247 3.95055 2.40664 3.95055 2.89982L3.94776 3.84672H6.01782L5.81755 5.73859L3.94905 5.73924L3.94776 11.2285H1.89057Z" fill="white"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_1" x="-56" y="-584.734" width="436.656" height="656.5" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="12.5"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_1"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_1" result="shape"/>
+</filter>
+<clipPath id="clip0_0_1">
+<rect width="1920" height="6764.75" fill="white" transform="translate(-341 -5921)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="1920" height="6764.75" fill="white" transform="translate(-341 -5921)"/>
+</clipPath>
+<clipPath id="clip2_0_1">
+<rect width="11" height="11" fill="white" transform="matrix(1 0 0 -1 0.5 11.25)"/>
+</clipPath>
+</defs>
+</svg>
